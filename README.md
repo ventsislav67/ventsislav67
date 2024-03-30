@@ -29,7 +29,7 @@
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/4414/programming-basics-with-csharp-february-2024" > Programming Basics with C# </a>    | <a href="https://softuni.bg/certificates/details/208375/f2d3f461"> Click here</a> |
- width="65" height="95" > 
+
   
   ---------------------------------------------------------------------------------
 
