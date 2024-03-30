@@ -23,6 +23,9 @@
 
  ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=ventsislav67.ventsislav67) 
       ![GitHub followers](https://img.shields.io/github/followers/ventsislav67)
+      <p align="right">
+<a href="https://softuni.bg/certificates/details/208375/f2d3f461"> Certificate of Softuni... </a>
+<!---
 
 <!---
 ventsislav67/ventsislav67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
