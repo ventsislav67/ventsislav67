@@ -20,6 +20,10 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" height="40">
 
+
+ ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=ventsislav67.ventsislav67) 
+      ![GitHub followers](https://img.shields.io/github/followers/ventsislav67)
+
 <!---
 ventsislav67/ventsislav67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
