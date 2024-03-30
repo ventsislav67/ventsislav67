@@ -23,9 +23,15 @@
 
  ![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=ventsislav67.ventsislav67) 
       ![GitHub followers](https://img.shields.io/github/followers/ventsislav67)
-      <p align="right">
-<a href="https://softuni.bg/certificates/details/208375/f2d3f461"> Certificate of Softuni... </a>
-<!---
+
+      ---------------------------------------------------------------------------------
+  
+| **Course**                                                            | **Link**                                                   |
+| --------------------------------------------------------------------- | ---------------------------------------------------------- |
+| <a href="https://softuni.bg/trainings/4414/programming-basics-with-csharp-february-2024" > Programming Basics with C# </a>    | <a href="https://softuni.bg/certificates/details/208375/f2d3f461"> Click here</a> |
+  Grade: 6.00 (out of 6.00)<br /> Issue date: 20/02/2024 | <img src="https://i.ibb.co/30xy7GT/softbasic.png" alt="Smiley face" width="65" height="95" > 
+  
+  ---------------------------------------------------------------------------------
 
 <!---
 ventsislav67/ventsislav67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
