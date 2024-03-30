@@ -10,6 +10,9 @@
   <img height="350em" alt="My GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ventsislav67&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&count_private=true&include_all_commits=true" />
 </a>
 
+
+## Things I can do::
+
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
