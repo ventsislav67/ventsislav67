@@ -29,7 +29,7 @@
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/4414/programming-basics-with-csharp-february-2024" > Programming Basics with C# </a>    | <a href="https://softuni.bg/certificates/details/208375/f2d3f461"> Click here</a> |
-  Grade: 6.00 (out of 6.00)<br /> Issue date: 20/02/2024 | <img src="" alt="Smiley face" width="65" height="95" > 
+ width="65" height="95" > 
   
   ---------------------------------------------------------------------------------
 
