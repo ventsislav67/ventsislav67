@@ -1,7 +1,7 @@
 <!-- Ventsislav Kolev · GitHub Profile · Neon Edition -->
 
 <div align="center">
-  <img src="./assets/neon-banner.gif" alt="Animated neon banner: Ventsislav Kolev — C#, Arduino, Web, Git" width="100%" />
+  <img src="./neon-banner.gif" alt="Animated neon banner: Ventsislav Kolev — C#, Arduino, Web, Git" width="100%" />
 </div>
 
 <h3 align="center">Software Development · Embedded Systems · Automotive Technology</h3>
@@ -36,7 +36,7 @@ I'm passionate about turning ideas into working projects — from **C# applicati
 ### ⚡ Tech stack in motion
 
 <p align="center">
-  <img src="./assets/tech-pulse.gif" alt="Animated dashboard with C#, HTML5, CSS3, Arduino, Git and Firebase technologies" width="100%" />
+  <img src="./tech-pulse.gif" alt="Animated dashboard with C#, HTML5, CSS3, Arduino, Git and Firebase technologies" width="100%" />
 </p>
 
 <p align="center">
@@ -70,8 +70,8 @@ I'm passionate about turning ideas into working projects — from **C# applicati
 
 <!-- These local SVG cards are updated automatically by GitHub Actions. -->
 <p align="center">
-  <img src="./assets/github-stats.svg" alt="My GitHub statistics" width="49%" />
-  <img src="./assets/top-languages.svg" alt="Languages used in my GitHub repositories" width="49%" />
+  <img src="./github-stats.svg" alt="My GitHub statistics" width="49%" />
+  <img src="./top-languages.svg" alt="Languages used in my GitHub repositories" width="49%" />
 </p>
 
 ### 🐍 Contribution activity — animated
@@ -79,9 +79,9 @@ I'm passionate about turning ideas into working projects — from **C# applicati
 <!-- The animation is generated from the real GitHub contribution calendar. -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake-light.svg" />
-    <img src="./assets/github-snake-dark.svg" alt="Animated snake moving through my real GitHub contributions" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./github-snake-light.svg" />
+    <img src="./github-snake-dark.svg" alt="Animated snake moving through my real GitHub contributions" width="100%" />
   </picture>
 </div>
 
