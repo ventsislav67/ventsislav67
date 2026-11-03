@@ -139,6 +139,8 @@
 
 **💻 [PRAKTIKA 2025](https://github.com/ventsislav67/PRAKTIKA-2025)** — Practice work featuring a Windows Forms application.
 
+**✨ [Приказка Online](https://github.com/ventsislav67/prikazka-online)** — Bulgarian-language AI story generator built with Node.js, Express and JavaScript.
+
 <p align="center">
   <a href="https://github.com/ventsislav67?tab=repositories"><strong>Explore all repositories ↗</strong></a>
 </p>
