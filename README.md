@@ -131,15 +131,25 @@
   </p>
 </div>
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-**🚘 [RoadMind](https://github.com/ventsislav67/RoadMind)** — A web platform concept for driving theory exam preparation, with learning content, quizzes and planned AI-assisted features.
+| 🏍️ **NEON RUSH** | 🚘 **CarAdvisor AI** |
+| :--- | :--- |
+| 3D Lightcycle arena game featuring JavaScript, Three.js, PHP backend and multiplayer experiments. | C# / .NET 10 WPF desktop app for vehicle comparison, market research and optional AI features. |
+| [**Explore game source ↗**](https://github.com/ventsislav67/NEON-RUSH-Lightcycle-3D) | [**Explore Windows app ↗**](https://github.com/ventsislav67/CarAdvisorApp) |
 
-**🔧 [Arduino Distance Assistant](https://github.com/ventsislav67/arduino-project)** — A distance measuring project using the HC-SR04 sensor, LCD display, RGB LEDs and a buzzer.
+| 🍺 **Жадният Програмист** | ✨ **Приказка Online** |
+| :--- | :--- |
+| C# / .NET 8 Windows Forms desktop app with SQLite, custom graphics and animated controls. | Bulgarian AI story generator using JavaScript, Node.js and Express. |
+| [**Explore desktop app ↗**](https://github.com/ventsislav67/ZhadniyatProgramist) | [**Explore story generator ↗**](https://github.com/ventsislav67/prikazka-online) |
 
-**💻 [PRAKTIKA 2025](https://github.com/ventsislav67/PRAKTIKA-2025)** — Practice work featuring a Windows Forms application.
+### More experiments
 
-**✨ [Приказка Online](https://github.com/ventsislav67/prikazka-online)** — Bulgarian-language AI story generator built with Node.js, Express and JavaScript.
+**🚘 [RoadMind](https://github.com/ventsislav67/RoadMind)** — Driving theory learning web platform, including quizzes and planned AI-assisted features.
+
+**🔧 [Arduino Distance Assistant](https://github.com/ventsislav67/arduino-project)** — HC-SR04 sensor, LCD display, RGB LEDs and buzzer.
+
+**💻 [PRAKTIKA 2025](https://github.com/ventsislav67/PRAKTIKA-2025)** — Windows Forms practice project.
 
 <p align="center">
   <a href="https://github.com/ventsislav67?tab=repositories"><strong>Explore all repositories ↗</strong></a>
