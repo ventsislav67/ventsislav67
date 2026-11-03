@@ -43,29 +43,68 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧬 About Me — Interactive Developer Profile
 
-I'm interested in **C# and .NET**, **Arduino & electronics**, **modern web development**, and the software behind **smart automotive systems**.
-
-- 💻 **Software:** C# console applications, Windows Forms, clean program logic.
-- 🤖 **Embedded:** Arduino, ultrasonic sensors, LCDs, RGB LEDs, distance alerts.
-- 🌐 **Web:** HTML, CSS, JavaScript, Firebase and real-time app experiments.
-- 🚘 **Beyond code:** Cars, electronics, connected technology and user experience.
+<div align="center">
+  <img src="./about-me-hud.svg" width="100%" alt="Animated neon profile: Ventsislav Kolev, software, embedded systems, web and automotive technology" />
+  <p><sub>Animated developer panel · Select a category below to explore my skills and projects</sub></p>
+</div>
 
 <details>
-<summary><strong>▸ Open developer profile</strong></summary>
+<summary><strong>💻 01 / SOFTWARE ENGINEERING — C# &amp; .NET</strong> · Click to explore</summary>
+
+<p>I enjoy building useful desktop tools, practicing clean program logic and experimenting with Windows Forms interfaces.</p>
+<p><strong>Core focus:</strong> C# · .NET · Console Applications · Windows Forms</p>
+<p>🔗 <a href="https://github.com/ventsislav67/PRAKTIKA-2025"><strong>Explore my Windows Forms practice →</strong></a></p>
+</details>
+
+<details>
+<summary><strong>🤖 02 / EMBEDDED SYSTEMS — Arduino</strong> · Click to explore</summary>
+
+<p>Combining hardware and software through ultrasonic sensors, RGB LEDs, buzzer alerts and LCD displays.</p>
+<p><strong>Core focus:</strong> Arduino · HC-SR04 · Sensors · LCD · Electronics</p>
+<p>🔗 <a href="https://github.com/ventsislav67/arduino-project"><strong>Open my Arduino distance-assistant project →</strong></a></p>
+</details>
+
+<details>
+<summary><strong>🌐 03 / WEB &amp; REAL-TIME — Firebase</strong> · Click to explore</summary>
+
+<p>I work on responsive websites and explore real-time applications, web interfaces and Firebase-based ideas.</p>
+<p><strong>Core focus:</strong> HTML · CSS · JavaScript · Firebase · UX</p>
+<p>🔗 <a href="https://github.com/ventsislav67/RoadMind"><strong>Explore the RoadMind web platform →</strong></a></p>
+</details>
+
+<details>
+<summary><strong>🚘 04 / AUTOMOTIVE TECHNOLOGY</strong> · Click to explore</summary>
+
+<p>I'm interested in connected vehicles, sensor systems, automotive electronics and how software makes driving technology smarter and safer.</p>
+<p><strong>Interests:</strong> Automotive software · Sensors · Embedded technology · User experience</p>
+<p>🔗 <a href="https://github.com/ventsislav67?tab=repositories"><strong>Explore all my engineering projects →</strong></a></p>
+</details>
+
+<details>
+<summary><strong>⌨️ TERMINAL / developer-info --all</strong> · Expand developer details</summary>
 
 **Developer:** Ventsislav Kolev
 
-**GitHub:** ventsislav67
+**GitHub:** [@ventsislav67](https://github.com/ventsislav67)
 
-**Learning:** C#, Arduino, Web Development
+**Currently learning:** C#, Arduino, Web Development
 
-**Exploring:** Firebase, Realtime Applications, Embedded Systems
+**Exploring:** Firebase, Real-time Applications, Embedded Systems
 
-**Principle:** Learn. Build. Improve. Repeat.
+**Mindset:** Learn → Build → Improve → Repeat
 
 </details>
+
+<p align="center">
+  <a href="https://github.com/ventsislav67?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-ALL_PROJECTS-20DFFF?style=for-the-badge&labelColor=0B1220&logo=github" alt="Explore all my GitHub repositories" />
+  </a>
+  <a href="https://softuni.bg/certificates/details/208375/f2d3f461">
+    <img src="https://img.shields.io/badge/VIEW-C%23_CERTIFICATE-8A82FF?style=for-the-badge&labelColor=0B1220" alt="View my C# course certificate" />
+  </a>
+</p>
 
 ## ⚡ Tech Stack in Motion
 
