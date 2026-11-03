@@ -32,7 +32,30 @@ mission: "Learn. Build. Improve. Repeat."
 ```
 
 I'm passionate about turning ideas into working projects — from **C# applications** and **web interfaces** to **Arduino electronics**. I'm also interested in **automotive technology**, embedded systems, and performance-focused software.
+    ### 📊 Live GitHub Dashboard
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=950&lines=Live+GitHub+Dashboard;Commits+%E2%80%A2+Languages+%E2%80%A2+Streaks+%E2%80%A2+Activity;C%23+%E2%80%A2+Arduino+%E2%80%A2+Web+Development+%E2%80%A2+Firebase" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ventsislav67&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=E6F7FF&icon_color=00E5FF&ring_color=00E5FF" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ventsislav67&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=E6F7FF" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ventsislav67&theme=transparent&hide_border=true&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=E6F7FF&dates=9FDFFF&sideNums=E6F7FF" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ventsislav67&bg_color=020617&color=E6F7FF&line=00E5FF&point=38BDF8&area=true&hide_border=true" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ventsislav67?style=for-the-badge&color=00E5FF&labelColor=0B1220" />
+  <img src="https://img.shields.io/github/stars/ventsislav67?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00E5FF&labelColor=0B1220" />
+  <img src="https://komarev.com/ghpvc/?username=ventsislav67&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS" />
+</p>
 ### ⚡ Tech stack in motion
 
 <p align="center">
